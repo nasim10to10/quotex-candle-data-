@@ -1,0 +1,14 @@
+{
+  "name": "quotex-candle-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Building the project...'",
+    "predeploy": "npm run build"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {}
+}
